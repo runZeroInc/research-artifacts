@@ -8,13 +8,13 @@
 #   git clone https://github.com/cisagov/kev-data.git /path/to/cloned/kev-data
 #
 # Run the script:
-#   ./find-removed-kev.sh /path/to/cloned/kev-data
+#   ./kev-removals.sh /path/to/cloned/kev-data
 #
 # Arguments:
 #   /path/to/kev-data   Path to a local git checkout of the kev-data repository
 #
 # Example:
-#   ./find-removed-kev.sh ~/src/kev-data
+#   ./kev-removals.sh ~/src/kev-data
 #
 # The script expects:
 #   - A git repository
